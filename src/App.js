@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          Still Learning Docker and Kubernetes!
+          Boilerplate Config using create-react-app, Docker, TravisCI deployed over AWS Elasticbeanstalk
         </p>
       </div>
     );
