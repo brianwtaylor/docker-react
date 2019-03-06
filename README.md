@@ -1,1 +1,1 @@
-# Boilerplate Setup Using create-react-app, Docker, TravisCI and AWS for creating a production grade work flow
+# Boilerplate Setup Using create-react-app, Docker, TravisCI for creating a production grade workflow deployed over AWS Elasticbeanstalk
